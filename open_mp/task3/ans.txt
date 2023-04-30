@@ -1,0 +1,2 @@
+Single version - 712ms
+10 threads version - 251ms
