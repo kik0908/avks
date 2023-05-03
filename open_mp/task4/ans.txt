@@ -1,0 +1,2 @@
+single version - 14894ms
+Multithread version - 7048ms
