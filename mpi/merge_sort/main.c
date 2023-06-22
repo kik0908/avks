@@ -3,7 +3,6 @@
 #include <stdlib.h>
 
 void merge(int* arr, int l, int m, int r) {
-    
     int f_n = m - l + 1;
     int s_n = r - m;
 
